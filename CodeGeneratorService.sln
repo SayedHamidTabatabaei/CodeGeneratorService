@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGeneratorService", "CodeGeneratorService\CodeGeneratorService.csproj", "{E90A9B3E-D73D-4629-92DF-301E78501AB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGenerator.Share", "CodeGenerator.Share\CodeGenerator.Share.csproj", "{271C5BA3-6E12-4E9B-ACF7-071F76EEF940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E90A9B3E-D73D-4629-92DF-301E78501AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90A9B3E-D73D-4629-92DF-301E78501AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90A9B3E-D73D-4629-92DF-301E78501AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90A9B3E-D73D-4629-92DF-301E78501AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{271C5BA3-6E12-4E9B-ACF7-071F76EEF940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271C5BA3-6E12-4E9B-ACF7-071F76EEF940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271C5BA3-6E12-4E9B-ACF7-071F76EEF940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271C5BA3-6E12-4E9B-ACF7-071F76EEF940}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9285AE9-0317-4D72-8EDE-5B50FFAB5456}
+	EndGlobalSection
+EndGlobal
